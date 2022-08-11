@@ -3,7 +3,7 @@
 
 -  I Love to coding at the **BEGINNER**
 
-- 🔭 I’m currently working on **Front-End Developer Job**
+- 🔭 I’m currently working on **Front-End Developer at the free time job.**
 
 - 📫 How to reach me **[https://github.com/RichieSattonyoo/profile](https://github.com/RichieSattonyoo)**
 
