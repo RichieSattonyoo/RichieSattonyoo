@@ -2,10 +2,7 @@
 ![MasterHead](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80) 
 -->
 <h1>Hi 👋, I'm Richie Sattonyoo</h1>
-
---  I Love Laravel 
-
--- 🔭 I’m currently working on PHP Laravel Project  
+I am a freelance developer. I'm focused on the PHP Laravel project
 
 <h3 align="left">Computer Languages Interesting </h3>
 <p align="left"> 
