@@ -3,9 +3,9 @@
 -->
 <h1>Hi 👋, I'm Richie Sattonyoo</h1>
 
---  I Love to coding at the **BEGINNER**
+--  I Love Laravel 
 
--- 🔭 I’m currently working on **Front-End Developer at the free time job.**
+-- 🔭 I’m currently working on PHP Laravel Project  
 
 <h3 align="left">Computer Languages Interesting </h3>
 <p align="left"> 
